@@ -34,15 +34,10 @@ Bu proje, Flutter ile geliştirilmiş, kullanıcıların cilt bakım ürünlerin
    flutter run
 
    
-
 ## 📸 Ekran Görüntüleri
 
-| Ana Sayfa | Ürün Detay | Sepetim | Filtrelenmiş Ürünler | Boş Sepet
-| <img width="694" height="1422" alt="image" src="https://github.com/user-attachments/assets/965adc96-45da-4341-8221-e0661dda9764" />
- | <img width="689" height="1438" alt="image" src="https://github.com/user-attachments/assets/da44a300-5fe1-42e1-b358-8b56d84fa8ec" />
- | <img width="689" height="1431" alt="image" src="https://github.com/user-attachments/assets/eb1964cf-81fc-42bc-81ab-82a19a5784ba" />
- | <img width="691" height="1388" alt="image" src="https://github.com/user-attachments/assets/791d7964-d28e-49ae-90b1-e7dc9da44fcd" />
- | <img width="666" height="1459" alt="image" src="https://github.com/user-attachments/assets/91af9605-71df-43c4-99a7-505e2bb13b65" />
-
+| Ana Sayfa | Ürün Detay | Sepetim | Filtreleme | Boş Sepet |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/965adc96-45da-4341-8221-e0661dda9764" width="180"> | <img src="https://github.com/user-attachments/assets/da44a300-5fe1-42e1-b358-8b56d84fa8ec" width="180"> | <img src="https://github.com/user-attachments/assets/eb1964cf-81fc-42bc-81ab-82a19a5784ba" width="180"> | <img src="https://github.com/user-attachments/assets/791d7964-d28e-49ae-90b1-e7dc9da44fcd" width="180"> | <img src="https://github.com/user-attachments/assets/91af9605-71df-43c4-99a7-505e2bb13b65" width="180"> |
 
 
