@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Water-Based Moisturizer",
+    "brand": "Cream Co.",
+    "description": "Tüm cilt tipleri için özel olarak geliştirilmiş, su bazlı ve hafif yapılı yoğun nemlendirici. İçeriğindeki Hyalüronik Asit ile cildin alt katmanlarına kadar nem hapsettirirken, aydınlatıcı etkisiyle donuk görünümü giderir. Yağlılık hissi bırakmadan cildi ferahlatır, yumuşak ve canlı bir görünüm kazandırır.",
+    "price": "285 TL",
+    "imageUrl": "https://cdn.dsmcdn.com/mnresize/420/620/ty1000382/product/media/images/prod/PIM/20260331/07/5af5d8a8-bd9d-45b1-bf0b-c488ce2a88db/1_org_zoom.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hyaluronic Acid 2% + B5",
+    "brand": "The Purest Solutions",
+    "description": "Cildin farklı katmanlarını nemlendiren yoğun hyalüronik asit ve yatıştırıcı B5 vitamini.",
+    "price": "340 TL",
+    "imageUrl": "https://cdn.akakce.com/z/the-purest-solutions/the-purest-solutions-glycolic-acid-5-aha-bha-200-ml-gozenek-sikilastirici.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Effaclar Duo(+)",
+    "brand": "La Roche-Posay",
+    "description": "Sivilce sonrası izleri azaltmaya yardımcı ve akneye eğilimli ciltler için düzeltici bakım kremi.",
+    "price": "680 TL",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Qxlek-VNL.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Niacinamide Serum",
+    "brand": "Doa Kozmetik",
+    "description": "Basit ama etkili içerik. Göz çevresi bakım kremi.",
+    "price": "180 TL",
+    "imageUrl": "https://cdn.dsmcdn.com/mnresize/420/620/ty1739/prod/QC_ENRICHMENT/20250827/13/0849edd6-f9e3-38b0-b1a3-6adf2327a5ee/1_org.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Vitamin C Serum",
+    "brand": "SkinCeuticals",
+    "description": "Güçlü antioksidan koruma sağlayan, cilde aydınlık görünüm veren profesyonel C vitamini.",
+    "price": "2.400 TL",
+    "imageUrl": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=500&auto=format&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Snail Mucin Essence",
+    "brand": "COSRX",
+    "description": "Cildi onaran, nem tutma kapasitesini artıran ve ışıltı veren %96 salyangoz özü.",
+    "price": "490 TL",
+    "imageUrl": "https://m.media-amazon.com/images/I/416kUGx2rQL.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Retinol Resurfacing",
+    "brand": "CeraVe",
+    "description": "Hassas ciltler için geliştirilmiş, gözenek görünümünü azaltan ve cildi yenileyen retinol.",
+    "price": "750 TL",
+    "imageUrl": "https://www.cerave.com.tr/-/media/project/loreal/brand-sites/cerave/emea/tr/scx/pdp-packshot/packshots/sm/cerave-rn-grseller_mobil-akneye-e-retnol-serum-30ml.jpg?rev=-1"
+  },
+  {
+    "id": 8,
+    "name": "Oil-Free Moisturizer",
+    "brand": "Kiehl's",
+    "description": "Yağlı ciltler için parlama yapmayan, 24 saat etkili hafif jel nemlendirici.",
+    "price": "1.100 TL",
+    "imageUrl": "https://img-kiehls.mncdn.com/mnpadding/700/700/FFFFFF/media/catalog/product/0/f/0f7860968e6ba81dcbcf366ce289e3a44389d09e911bab777a6ac62fe575d0df.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "BHA Exfoliant 2%",
+    "brand": "Paula's Choice",
+    "description": "Siyah noktaları temizleyen ve gözenekleri arındıran dünyaca ünlü salisilik asit peeling.",
+    "price": "1.350 TL",
+    "imageUrl": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?q=80&w=500&auto=format&fit=crop"
+  },
+  {
+    "id": 10,
+    "name": "Water Sunscreen SPF50",
+    "brand": "Isntree",
+    "description": "Su bazlı, beyazlık bırakmayan ve cildi ferahlatan yüksek korumalı güneş kremi.",
+    "price": "410 TL",
+    "imageUrl": "https://www.korendy.com.tr/cdn/shop/files/Isntree-HyaluronicAcidNaturalSunCreamKorendy3_cefaf987-ce33-41c5-8fa6-efc3f3b48ce9.jpg?v=1775668074"
+  },
+  {
+    "id": 11,
+    "name": "Facial Cleansing Gel",
+    "brand": "Bioderma",
+    "description": "Cildi kurutmadan temizleyen, pH dengeli hassas yıkama jeli.",
+    "price": "380 TL",
+    "imageUrl": "https://images.unsplash.com/photo-1631730359585-38a4935cbec4?q=80&w=500&auto=format&fit=crop"
+  },
+  {
+    "id": 12,
+    "name": "Rosehip Oil",
+    "brand": "The Ordinary",
+    "description": "Soğuk sıkım kuşburnu çekirdeği yağı. Yaşlanma karşıtı ve leke giderici doğal bakım.",
+    "price": "290 TL",
+    "imageUrl": "https://m.media-amazon.com/images/I/61kLKsWhVqL._AC_UF1000,1000_QL80_.jpg"
+  }
+]
