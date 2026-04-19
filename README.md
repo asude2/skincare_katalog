@@ -38,7 +38,6 @@ Bu proje, Flutter ile geliştirilmiş, kullanıcıların cilt bakım ürünlerin
 ## 📸 Ekran Görüntüleri
 
 | Ana Sayfa | Ürün Detay | Sepetim | Filtrelenmiş Ürünler | Boş Sepet
-|-----------|------------|---------|
 | <img width="694" height="1422" alt="image" src="https://github.com/user-attachments/assets/965adc96-45da-4341-8221-e0661dda9764" />
  | <img width="689" height="1438" alt="image" src="https://github.com/user-attachments/assets/da44a300-5fe1-42e1-b358-8b56d84fa8ec" />
  | <img width="689" height="1431" alt="image" src="https://github.com/user-attachments/assets/eb1964cf-81fc-42bc-81ab-82a19a5784ba" />
